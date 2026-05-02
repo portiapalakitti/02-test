@@ -62,7 +62,7 @@
 
     /* ---- HERO CAROUSEL ---- */
     (function () {
-      const slides = document.querySelectorAll("slide");
+      const slides = document.querySelectorAll(".slide");
       const dots = document.querySelectorAll(".dot");
       let index = 0, interval;
 
