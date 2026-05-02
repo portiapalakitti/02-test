@@ -183,10 +183,10 @@
       height: 38px;
       display: grid;
       place-items: center;
-      background: linear-gradient(135deg, var(--accent), var(--accent-2));
+      /* background: linear-gradient(135deg, var(--accent), var(--accent-2)); */
       color: #fff;
       font-size: 16px;
-      box-shadow: 0 6px 22px rgba(172, 107, 255, 0.35);
+      /* box-shadow: 0 6px 22px rgba(172, 107, 255, 0.35); */
       overflow: hidden;
       /* border-radius: 8px; */
       flex-shrink: 0;
